@@ -8,7 +8,7 @@
 </h3>
 <p>
   <b>I'm Sandeep</b>, Technical Leader and Architect from 
-  <img src="https://cdn-icons-png.flaticon.com/512/202/202884.png" width="13"/> 
+  <img src="https://cdn-icons-png.flaticon.com/512/299/299702.png" width="13"/> 
   India! and currently, weather here is: <b> 39°C, <i>dust</i></b>
 </p>
 
