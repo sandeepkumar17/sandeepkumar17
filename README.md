@@ -111,7 +111,7 @@
 ------------
 <p align="center">
   This <i>Profile</i> is updated <b>every 3 hours</b>!
-  </br>Last refresh: Friday, 10 June, 21:05 GMT+5:30
+  <!--</br>Last refresh: Friday, 10 June, 21:05 GMT+5:30-->
 </p>
 <p align="center">
   <img src="https://github.com/sandeepkumar17/sandeepkumar17/workflows/README%20build/badge.svg" />
