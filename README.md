@@ -42,6 +42,30 @@
 <h2>Recent posts:</h2>
 <ul>
   <li>
+    <a href="https://dev.to/techiesdiary/di-and-ioc-2knc">
+      <b>
+        <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> 
+        Dependency Injection pattern and Inversion of Control with C#
+      </b>
+    </a>
+  </li>
+  <li>
+    <a href="https://dev.to/techiesdiary/c-understand-about-ienumerable-vs-iqueryable-vs-icollection-vs-ilist-38n7">
+      <b>
+        <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> 
+        C#: Understand about IEnumerable vs. IQueryable vs. ICollection vs. IList
+      </b>
+    </a>
+  </li>  
+  <li>
+    <a href="https://dev.to/techiesdiary/sql-server-storing-language-specific-data-in-sql-server-table-field-2h9i">
+      <b>
+        <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> 
+        SQL Server: Storing language specific data in SQL Server table field.
+      </b>
+    </a>
+  </li>
+  <li>
     <a href="https://dev.to/techiesdiary/singleton-design-pattern-and-different-ways-to-implement-it-in-c-53lo">
       <b>
         <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> 
@@ -62,14 +86,6 @@
       <b>
         <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> 
         Error 405 : ASP.NET Core Web API PUT and DELETE Methods not allowed
-      </b>
-    </a>
-  </li>
-  <li>
-    <a href="https://dev.to/techiesdiary/systemdatalinqforeignkeyreferencealreadyhasvalueexception-operation-is-not-valid-due-to-the-current-state-of-the-object-111d">
-      <b>
-        <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> 
-        System.Data.Linq.ForeignKeyReferenceAlreadyHasValueException: Operation is not valid due to the current state of the object.
       </b>
     </a>
   </li>
