@@ -42,6 +42,14 @@
 <h2>Recent posts:</h2>
 <ul>
   <li>
+    <a href="https://dev.to/techiesdiary/net-60-grpc-server-and-client-implementation-77m">
+      <b>
+        <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> 
+        Dependency Injection pattern and Inversion of Control with C#
+      </b>
+    </a>
+  </li>
+  <li>
     <a href="https://dev.to/techiesdiary/di-and-ioc-2knc">
       <b>
         <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> 
