@@ -9,7 +9,7 @@
 <p>
   <b>I'm Sandeep</b>, Technical Leader and Architect from 
   <img src="https://cdn-icons-png.flaticon.com/512/299/299702.png" width="13"/> 
-  India! and currently, weather here is: <b> 29°C, <i>mist</i></b>
+  India! and currently, weather here is: <b> 29°C, <i>haze</i></b>
 </p>
 
 <h2>Technologies I code with:</h2>
@@ -135,7 +135,7 @@
 ------------
 <p align="center">
   This <i>Profile</i> is updated <b>every 3 hours</b>!
-  <!-- </br>Last refresh: Wednesday, 24 August, 19:58 GMT+5:30 -->
+  <!-- </br>Last refresh: Tuesday, 6 September, 08:28 GMT+5:30 -->
 </p>
 <p align="center">
   <img src="https://github.com/sandeepkumar17/sandeepkumar17/workflows/README%20build/badge.svg" />
