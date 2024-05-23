@@ -86,7 +86,6 @@
   <li>
     <a href="https://dev.to/techiesdiary/singleton-design-pattern-and-different-ways-to-implement-it-in-c-53lo">
       <b>
-        <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> 
         Singleton Design Pattern and different ways to implement it in C#
       </b>
     </a>
@@ -109,7 +108,7 @@
 
 <h2>Github Stats:</h2>
 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=sandeepkumar17)
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=sandeepkumar17.sandeepkumar17)
 <br />
 ![Sandeep's github stats](https://github-readme-stats.vercel.app/api?username=sandeepkumar17&hide=["issues"]&show_icons=true)
 
