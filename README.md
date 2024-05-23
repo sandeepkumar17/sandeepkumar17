@@ -9,7 +9,7 @@
 <p>
   <b>I'm Sandeep</b>, Technical Leader and Architect from 
   <img src="https://cdn-icons-png.flaticon.com/512/299/299702.png" width="13"/> 
-  India! and currently, weather here is: <b> 29°C, <i>haze</i></b>
+  India! and currently, weather here is: <b> 37°C, <i>Sunny</i></b>
 </p>
 
 <h2>Technologies I code with:</h2>
@@ -42,9 +42,22 @@
 <h2>Recent posts:</h2>
 <ul>
   <li>
+    <a href="https://dev.to/techiesdiary/chatgpt-prompts-for-developers-216d">
+      <b>
+        ChatGPT - Prompts for developers
+      </b>
+    </a>
+  </li>
+  <li>
+    <a href="https://dev.to/techiesdiary/c-new-features-and-improvements-in-c-12-3n3f">
+      <b>
+        C# 12: New Features and Improvements
+      </b>
+    </a>
+  </li>
+  <li>
     <a href="https://dev.to/techiesdiary/net-60-grpc-server-and-client-implementation-77m">
       <b>
-        <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> 
         .NET 6.0 - gRPC Server and Client implementation
       </b>
     </a>
@@ -52,7 +65,6 @@
   <li>
     <a href="https://dev.to/techiesdiary/di-and-ioc-2knc">
       <b>
-        <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> 
         Dependency Injection pattern and Inversion of Control with C#
       </b>
     </a>
@@ -60,7 +72,6 @@
   <li>
     <a href="https://dev.to/techiesdiary/c-understand-about-ienumerable-vs-iqueryable-vs-icollection-vs-ilist-38n7">
       <b>
-        <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> 
         C#: Understand about IEnumerable vs. IQueryable vs. ICollection vs. IList
       </b>
     </a>
@@ -68,7 +79,6 @@
   <li>
     <a href="https://dev.to/techiesdiary/sql-server-storing-language-specific-data-in-sql-server-table-field-2h9i">
       <b>
-        <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> 
         SQL Server: Storing language specific data in SQL Server table field.
       </b>
     </a>
@@ -84,7 +94,6 @@
   <li>
     <a href="https://dev.to/techiesdiary/net-60-clean-architecture-using-repository-pattern-and-dapper-with-logging-and-unit-testing-1nd9">
       <b>
-        <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> 
         .NET 6.0 - Clean Architecture using Repository Pattern and Dapper with Logging and Unit Testing
       </b>
     </a>
@@ -92,7 +101,6 @@
   <li>
     <a href="https://dev.to/techiesdiary/error-405-aspnet-core-web-api-put-and-delete-methods-not-allowed-222j">
       <b>
-        <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> 
         Error 405 : ASP.NET Core Web API PUT and DELETE Methods not allowed
       </b>
     </a>
@@ -101,7 +109,7 @@
 
 <h2>Github Stats:</h2>
 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=sandeepkumar17.sandeepkumar17)
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=sandeepkumar17)
 <br />
 ![Sandeep's github stats](https://github-readme-stats.vercel.app/api?username=sandeepkumar17&hide=["issues"]&show_icons=true)
 
