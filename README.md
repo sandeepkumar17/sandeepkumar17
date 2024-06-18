@@ -42,6 +42,13 @@
 <h2>Recent posts:</h2>
 <ul>
   <li>
+    <a href="https://dev.to/techiesdiary/net-60-jwt-token-authentication-using-the-example-api-91l">
+      <b>
+        .NET 8.0 - JWT Token Authentication Using The Example API
+      </b>
+    </a>
+  </li>
+  <li>
     <a href="https://dev.to/techiesdiary/chatgpt-prompts-for-developers-216d">
       <b>
         ChatGPT - Prompts for developers
@@ -75,13 +82,6 @@
         C#: Understand about IEnumerable vs. IQueryable vs. ICollection vs. IList
       </b>
     </a>
-  </li>  
-  <li>
-    <a href="https://dev.to/techiesdiary/sql-server-storing-language-specific-data-in-sql-server-table-field-2h9i">
-      <b>
-        SQL Server: Storing language specific data in SQL Server table field.
-      </b>
-    </a>
   </li>
   <li>
     <a href="https://dev.to/techiesdiary/singleton-design-pattern-and-different-ways-to-implement-it-in-c-53lo">
@@ -94,13 +94,6 @@
     <a href="https://dev.to/techiesdiary/net-60-clean-architecture-using-repository-pattern-and-dapper-with-logging-and-unit-testing-1nd9">
       <b>
         .NET 6.0 - Clean Architecture using Repository Pattern and Dapper with Logging and Unit Testing
-      </b>
-    </a>
-  </li>
-  <li>
-    <a href="https://dev.to/techiesdiary/error-405-aspnet-core-web-api-put-and-delete-methods-not-allowed-222j">
-      <b>
-        Error 405 : ASP.NET Core Web API PUT and DELETE Methods not allowed
       </b>
     </a>
   </li>
