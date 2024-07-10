@@ -9,7 +9,7 @@
 <p>
   <b>I'm Sandeep</b>, Technical Leader and Architect from 
   <img src="https://cdn-icons-png.flaticon.com/512/299/299702.png" width="13"/> 
-  India! and currently, weather here is: <b> 37°C, <i>Sunny</i></b>
+  India! and currently, weather here is: <b> 30°C, <i>mist</i></b>
 </p>
 
 <h2>Technologies I code with:</h2>
@@ -17,7 +17,8 @@
   <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=lat-square&logo=c-sharp&logoColor=white" />  
   <img alt=".NET" src="https://img.shields.io/badge/.NET-5C2D91?style=lat-square&logo=.net&logoColor=white" />
   <img alt="Microsoft SQL Server" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" />
-   <img alt="AZURE" src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=lat-square&logo=microsoft-azure&logoColor=white" />
+  <img alt="AZURE" src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=lat-square&logo=microsoft-azure&logoColor=white" />
+  <img alt="AWS" src="https://img.shields.io/badge/-AWS-43853d?style=flat-square&logo=AWS&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
@@ -36,12 +37,15 @@
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
   <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white" />
+  <img alt="ChatGPT" src="https://img.shields.io/badge/ChatGPT-F05032?style=flat-square&logo=ChatGPT&logoColor=white" />
+  <img alt="AI" src="https://img.shields.io/badge/-AI-46a2f1?style=flat-square&logo=AI&logoColor=white" />
+  <img alt="Prompt Engineering" src="https://img.shields.io/badge/Prompt%20Engineering-323330?style=flat-square&logo=Prompt%20Engineering&logoColor=white" />
 </p>
 
 
 <h2>Recent posts:</h2>
 <ul>
-  <li>
+ <li>
     <a href="https://dev.to/techiesdiary/net-60-jwt-token-authentication-using-the-example-api-91l">
       <b>
         .NET 8.0 - JWT Token Authentication Using The Example API
@@ -82,6 +86,13 @@
         C#: Understand about IEnumerable vs. IQueryable vs. ICollection vs. IList
       </b>
     </a>
+  </li>  
+  <li>
+    <a href="https://dev.to/techiesdiary/sql-server-storing-language-specific-data-in-sql-server-table-field-2h9i">
+      <b> 
+        SQL Server: Storing language specific data in SQL Server table field.
+      </b>
+    </a>
   </li>
   <li>
     <a href="https://dev.to/techiesdiary/singleton-design-pattern-and-different-ways-to-implement-it-in-c-53lo">
@@ -92,8 +103,8 @@
   </li>
   <li>
     <a href="https://dev.to/techiesdiary/net-60-clean-architecture-using-repository-pattern-and-dapper-with-logging-and-unit-testing-1nd9">
-      <b>
-        .NET 6.0 - Clean Architecture using Repository Pattern and Dapper with Logging and Unit Testing
+      <b> 
+        .NET 8.0 - Clean Architecture using Repository Pattern and Dapper with Logging and Unit Testing
       </b>
     </a>
   </li>
@@ -116,11 +127,11 @@
   <a href="https://diary-techies.blogspot.com/" target="_blank">
     <img alt="Medium" src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" />
   </a>
-  <a href="https://twitter.com/meetToSandy" target="_blank">
-    <img alt="Twitter" src="https://img.shields.io/badge/meetToSandy-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
   <a href="https://www.linkedin.com/in/sandeepkumar17" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/sandeepkumar17-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/meetToSandy" target="_blank">
+    <img alt="Twitter" src="https://img.shields.io/badge/meetToSandy-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
   <a href="https://www.facebook.com/TechiesDiary" target="_blank">
     <img alt="Medium" src="https://img.shields.io/badge/TechiesDiary-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
@@ -135,7 +146,7 @@
 ------------
 <p align="center">
   This <i>Profile</i> is updated <b>every 3 hours</b>!
-  <!-- </br>Last refresh: Tuesday, 6 September, 08:28 GMT+5:30 -->
+  <!-- </br>Last refresh: Thursday, 11 July at 00:32 GMT+5:30 -->
 </p>
 <p align="center">
   <img src="https://github.com/sandeepkumar17/sandeepkumar17/workflows/README%20build/badge.svg" />
