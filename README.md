@@ -45,6 +45,13 @@
 
 <h2>Recent posts:</h2>
 <ul>
+<li>
+    <a href="https://dev.to/techiesdiary/the-future-of-net-in-the-ai-era-why-net-developers-are-still-relevant-1lo6">
+      <b>
+        The Future of .NET in the AI Era: Why .NET Developers Are Still Relevant 
+      </b>
+    </a>
+ </li>
  <li>
     <a href="https://dev.to/techiesdiary/net-60-jwt-token-authentication-using-the-example-api-91l">
       <b>
